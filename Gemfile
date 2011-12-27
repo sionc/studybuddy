@@ -35,3 +35,4 @@ end
 gem 'factory_girl_rails'
 gem 'rake'
 gem 'rspec-rails'
+gem 'devise'
